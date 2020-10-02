@@ -1,4 +1,4 @@
-# Hacktober-Fest
+# HacktoberFest
 ## hi
 ### ji
 my projects
